@@ -1,5 +1,5 @@
 #figures
-fig/**
+/fig/**
 
 #
 **/__pycache__
